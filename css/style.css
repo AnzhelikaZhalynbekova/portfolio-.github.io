@@ -22,7 +22,7 @@ padding: 0 20px;
 flex-direction: column;
 }
 
-.content, .skills-content {
+.content,.skills-content {
 text-align: center; 
 max-width: 600px;
 }
